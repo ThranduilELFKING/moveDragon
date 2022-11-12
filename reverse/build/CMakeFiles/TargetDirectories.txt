@@ -1,0 +1,3 @@
+/home/isesol/project/movedragon/reverse/build/CMakeFiles/rebuild_cache.dir
+/home/isesol/project/movedragon/reverse/build/CMakeFiles/reverse.dir
+/home/isesol/project/movedragon/reverse/build/CMakeFiles/edit_cache.dir

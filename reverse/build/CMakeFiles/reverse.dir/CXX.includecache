@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../tools/toolsUse.h
+algorithm
+-
+cstring
+-
+fstream
+-
+iostream
+-
+map
+-
+sstream
+-
+string
+-
+sys/time.h
+-
+vector
+-
+
+/home/isesol/project/movedragon/reverse/reverse.cpp
+toolsUse.h
+/home/isesol/project/movedragon/reverse/toolsUse.h
+cstring
+-
+map
+-
+string
+-
+

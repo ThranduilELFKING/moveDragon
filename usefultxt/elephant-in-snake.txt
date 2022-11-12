@@ -1,0 +1,9 @@
+
+	  I am a snake, this elephant really delicious, brave stop, I will eat you
+	                   ....       ///
+	           ........    .      
+	          .            .      
+	         .             .      
+	.........              .......
+	..............................
+
